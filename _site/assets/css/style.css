@@ -325,3 +325,5 @@ a:hover { text-decoration: underline; }
 ul#nav { list-style-type: none; display: flex; justify-content: center; flex-wrap: wrap; margin: 0px; padding: 0px; text-align: center; }
 
 ul#nav li { margin: 0.4rem; }
+
+li.active.btn { color: rgba(255, 255, 255, 0.9); text-decoration: none; background-color: rgba(255, 255, 255, 0.3); border-color: rgba(255, 255, 255, 0.4); }
